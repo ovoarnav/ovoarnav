@@ -1,5 +1,5 @@
 👋 Hi, I’m @ovoarnav
-🚀 Founder of BuildSafe, an AI platform modernizing the trades industry → buildsafe-1.onrender.com
+🚀 Founder of BuildSafe, an AI platform modernizing the trades industry buildsafe-1.onrender.com
 
 🧠 Focused on data science, ML engineering, agentic AI, and cloud infrastructure
 
